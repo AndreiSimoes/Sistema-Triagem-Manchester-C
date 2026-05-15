@@ -1,0 +1,100 @@
+E 1 "Paciente_Aleatorio_1" 1 1778854415
+E 2 "Paciente_Aleatorio_2" 2 1778854444
+A
+E 3 "Paciente_Aleatorio_3" 3 1778854474
+E 4 "Paciente_Aleatorio_4" 1 1778854510
+E 5 "Paciente_Aleatorio_5" 0 1778854528
+D
+A
+E 6 "Paciente_Aleatorio_6" 4 1778854578
+E 7 "Paciente_Aleatorio_7" 2 1778854630
+E 8 "Paciente_Aleatorio_8" 3 1778854693
+A
+E 9 "Paciente_Aleatorio_9" 4 1778854750
+E 10 "Paciente_Aleatorio_10" 2 1778854768
+D
+E 11 "Paciente_Aleatorio_11" 4 1778854829
+E 12 "Paciente_Aleatorio_12" 4 1778854874
+E 13 "Paciente_Aleatorio_13" 1 1778854892
+A
+E 14 "Paciente_Aleatorio_14" 0 1778854917
+E 15 "Paciente_Aleatorio_15" 3 1778854966
+E 16 "Paciente_Aleatorio_16" 3 1778855009
+E 17 "Paciente_Aleatorio_17" 1 1778855026
+E 18 "Paciente_Aleatorio_18" 4 1778855070
+E 19 "Paciente_Aleatorio_19" 1 1778855087
+E 20 "Paciente_Aleatorio_20" 0 1778855147
+E 21 "Paciente_Aleatorio_21" 0 1778855214
+E 22 "Paciente_Aleatorio_22" 4 1778855260
+E 23 "Paciente_Aleatorio_23" 4 1778855303
+A
+E 24 "Paciente_Aleatorio_24" 3 1778855352
+A
+E 25 "Paciente_Aleatorio_25" 0 1778855409
+E 26 "Paciente_Aleatorio_26" 4 1778855429
+E 27 "Paciente_Aleatorio_27" 0 1778855454
+A
+D
+E 28 "Paciente_Aleatorio_28" 0 1778855468
+D
+E 29 "Paciente_Aleatorio_29" 4 1778855533
+A
+E 30 "Paciente_Aleatorio_30" 2 1778855594
+A
+A
+A
+E 31 "Paciente_Aleatorio_31" 4 1778855637
+D
+D
+E 32 "Paciente_Aleatorio_32" 1 1778855687
+E 33 "Paciente_Aleatorio_33" 3 1778855698
+E 34 "Paciente_Aleatorio_34" 3 1778855748
+A
+E 35 "Paciente_Aleatorio_35" 0 1778855769
+E 36 "Paciente_Aleatorio_36" 0 1778855830
+E 37 "Paciente_Aleatorio_37" 1 1778855882
+E 38 "Paciente_Aleatorio_38" 4 1778855943
+E 39 "Paciente_Aleatorio_39" 1 1778855986
+E 40 "Paciente_Aleatorio_40" 0 1778856033
+A
+E 41 "Paciente_Aleatorio_41" 0 1778856043
+E 42 "Paciente_Aleatorio_42" 1 1778856056
+E 43 "Paciente_Aleatorio_43" 1 1778856115
+E 44 "Paciente_Aleatorio_44" 1 1778856176
+A
+E 45 "Paciente_Aleatorio_45" 1 1778856186
+E 46 "Paciente_Aleatorio_46" 2 1778856199
+A
+A
+E 47 "Paciente_Aleatorio_47" 1 1778856238
+E 48 "Paciente_Aleatorio_48" 0 1778856250
+E 49 "Paciente_Aleatorio_49" 3 1778856286
+A
+E 50 "Paciente_Aleatorio_50" 3 1778856301
+E 51 "Paciente_Aleatorio_51" 4 1778856344
+A
+E 52 "Paciente_Aleatorio_52" 0 1778856399
+E 53 "Paciente_Aleatorio_53" 1 1778856461
+A
+E 54 "Paciente_Aleatorio_54" 1 1778856527
+A
+E 55 "Paciente_Aleatorio_55" 0 1778856545
+E 56 "Paciente_Aleatorio_56" 2 1778856594
+E 57 "Paciente_Aleatorio_57" 1 1778856622
+E 58 "Paciente_Aleatorio_58" 0 1778856656
+E 59 "Paciente_Aleatorio_59" 3 1778856686
+E 60 "Paciente_Aleatorio_60" 3 1778856729
+E 61 "Paciente_Aleatorio_61" 4 1778856781
+E 62 "Paciente_Aleatorio_62" 0 1778856791
+E 63 "Paciente_Aleatorio_63" 2 1778856847
+E 64 "Paciente_Aleatorio_64" 1 1778856889
+D
+E 65 "Paciente_Aleatorio_65" 0 1778856951
+E 66 "Paciente_Aleatorio_66" 1 1778857019
+A
+E 67 "Paciente_Aleatorio_67" 0 1778857057
+E 68 "Paciente_Aleatorio_68" 3 1778857119
+A
+E 69 "Paciente_Aleatorio_69" 4 1778857135
+E 70 "Paciente_Aleatorio_70" 0 1778857190
+A
