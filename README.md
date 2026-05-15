@@ -50,6 +50,8 @@ Após compilar, digite o comando abaixo para ver o programa ler os arquivos e ge
 ./simulador
 ```
 
+---
+
 ## 🌟 BÔNUS
 
 Se você quiser ver o sistema funcionando na prática (os pacientes entrando na recepção, sendo chamados pelo médico e a função "desfazer" acontecendo passo a passo na tela), nós temos um módulo visual!
